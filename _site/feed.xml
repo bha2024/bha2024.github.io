@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BioHack Academy</title>
+    <description>Waag&apos;s Biohack Academy is an intense 10 week biohacking course held in the Fablab Amsterdam and Open Wetlab.
+</description>
+    <link>http://localhost:4000/bha2024/</link>
+    <atom:link href="http://localhost:4000/bha2024/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Mar 2024 20:35:45 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Mar 2024 20:35:45 +0100</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+  </channel>
+</rss>
