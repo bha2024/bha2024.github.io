@@ -70,6 +70,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-21
+  bundle lock --add-platform x86_64-linux
 
 DEPENDENCIES
   jekyll (= 4.3.2)
