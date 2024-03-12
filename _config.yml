@@ -1,0 +1,15 @@
+# Site settings
+title: BioHack Academy
+email: lucas@waag.org
+description: > # this means to ignore new lines until "baseurl:"
+  Waag's Biohack Academy is an intense 10 week biohacking course held in the Fablab Amsterdam and Open Wetlab.
+baseurl: "/bha2024" # the subpath of your site, e.g. /blog/
+url: "http://bha2024.github.io" # the base hostname & protocol for your site
+twitter_username: waag
+github_username:  bha2024
+
+# Plugins
+safe: false
+
+# Build settings
+markdown: kramdown
