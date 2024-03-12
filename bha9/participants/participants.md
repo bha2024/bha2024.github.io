@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Participants
-permalink: /bha8/participants/
+permalink: /bha9/participants/
 ---
 
 ## Participants
