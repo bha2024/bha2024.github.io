@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Culture Collection
-permalink: /bha8/organisms
+permalink: /bha9/organisms
 ---
 
 ## Culture Collection
@@ -10,7 +10,7 @@ The following cultures are available in the Waag's Open Wetlab. In case you are 
 
 {% for page in site.pages %}
 {% if page.categories contains 'culture-collection' %}
-{% if page.url contains 'bha6' %}
+{% if page.url contains 'bha7' %}
 * [{{ page.title }}]({{ page.url | prepend: site.baseurl }})
 {% endif %}
 {% endif %}
