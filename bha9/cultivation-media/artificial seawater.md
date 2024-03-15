@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Artificial Seawater (ASW)
-permalink: /bha6/cultivation-media/artificial-seawater/
+permalink: /bha9/cultivation-media/artificial-seawater/
 categories: cultivation-media
 ---
 
@@ -18,4 +18,4 @@ Suitable for growing sea microbes like the glowing *A. fischeri* in a liquid
 |MgCl.5H<sub>2</sub>O|5.29|g|
 |Destilled water| up to 1000|mL|
 
-[Back to Organisms](/bha6/organisms/)
+[Back to Organisms](/bha9/organisms/)

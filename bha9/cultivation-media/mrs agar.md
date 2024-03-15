@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MRS Agar (MRSA)
-permalink: /bha6/cultivation-media/mrs-agar/
+permalink: /bha9/cultivation-media/mrs-agar/
 categories: cultivation-media
 ---
 
@@ -15,4 +15,4 @@ Suitable for growing lactic acid bacteria
 |Agar|20.0|g|
 |Demi water| up to 1000|mL|
 
-[Back to Organisms](/bha6/organisms/)
+[Back to Organisms](/bha9/organisms/)

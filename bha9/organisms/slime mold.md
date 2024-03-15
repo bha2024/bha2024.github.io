@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Slime mold
-permalink: /bha7/organisms/slime-mold/
+permalink: /bha9/organisms/slime-mold/
 categories: culture-collection
 ---
 
@@ -15,4 +15,4 @@ categories: culture-collection
 
 * [Maze puzzle](https://www.youtube.com/watch?v=czk4xgdhdY4P)
 
-[Back to Culture Collection](/bha6/organisms/)
+[Back to Culture Collection](/bha9/organisms/)

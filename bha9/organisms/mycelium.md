@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mycelium
-permalink: /bha7/organisms/mycelium/
+permalink: /bha9/organisms/mycelium/
 categories: culture-collection
 ---
 
@@ -19,8 +19,8 @@ Strains:
 Facts:
 
 * Nice furry microbe, grows into strong fibers
-* Grows best on [Malt Agar](/bha6/cultivation-media/malt-agar/)
+* Grows best on [Malt Agar](/bha9/cultivation-media/malt-agar/)
 * Find out more on [Wikipedia](https://en.wikipedia.org/wiki/Mycelium)
 * Gift from IRNAS
 
-[Back to Culture Collection](/bha6/organisms/)
+[Back to Culture Collection](/bha9/organisms/)

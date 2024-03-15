@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Peptone Water (PW)
-permalink: /bha6/cultivation-media/peptone-water/
+permalink: /bha9/cultivation-media/peptone-water/
 categories: cultivation-media
 ---
 
@@ -20,4 +20,4 @@ Set pH ~7.2
 * Please note: peptone is very dusty, so try not to inhale it.
 * Peptone can be found on eBay.
 
-[Back to Organisms](/bha6/organisms/)
+[Back to Organisms](/bha9/organisms/)

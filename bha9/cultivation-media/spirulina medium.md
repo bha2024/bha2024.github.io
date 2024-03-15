@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spirulina Medium (SM)
-permalink: /bha6/cultivation-media/spirulina-medium/
+permalink: /bha9/cultivation-media/spirulina-medium/
 categories: cultivation-media
 ---
 
@@ -19,4 +19,4 @@ Medium for growing the super food algae Spirulina
 |Trace Metals Solution|0.1|mL|
 |Distilled water|up to 1000|mL|
 
-[Back to Organisms](/bha6/organisms/)
+[Back to Organisms](/bha9/organisms/)

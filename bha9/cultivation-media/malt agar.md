@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Malt Agar (MA)
-permalink: /bha6/cultivation-media/malt-agar/
+permalink: /bha9/cultivation-media/malt-agar/
 categories: cultivation-media
 ---
 
@@ -21,4 +21,4 @@ Set pH ~5.5
 
 * Malt extract can be easily made DIY style by boiling malt in water
 
-[Back to Organisms](/bha6/organisms/)
+[Back to Organisms](/bha9/organisms/)

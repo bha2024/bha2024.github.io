@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kombucha Medium (KM)
-permalink: /bha5/cultivation-media/kombucha-medium/
+permalink: /bha9/cultivation-media/kombucha-medium/
 categories: cultivation-media
 ---
 
@@ -15,4 +15,4 @@ categories: cultivation-media
 
 * Stay away from Earl Grey or other heavily flavored or scented teas
 
-[Back to Organisms](/bha4/organisms/)
+[Back to Organisms](/bha9/organisms/)

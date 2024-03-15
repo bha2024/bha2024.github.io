@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acetobacter Medium (AM)
-permalink: /bha6/cultivation-media/acetobacter-medium/
+permalink: /bha9/cultivation-media/acetobacter-medium/
 categories: cultivation-media
 ---
 
@@ -28,4 +28,4 @@ To make plates, simply add 15 g/L agar.
 * Na<sub>2</sub>HPO<sub>4</sub> can be obtained by mixing NaOH and HPO<sub>4</sub> from drug store
 * Citric acid is sold in supermarkets
 
-[Back to Organisms](/bha6/organisms/)
+[Back to Organisms](/bha9/organisms/)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nutrient Agar (NA)
-permalink: /bha6/cultivation-media/nutrient-agar/
+permalink: /bha9/cultivation-media/nutrient-agar/
 categories: cultivation-media
 ---
 
@@ -27,4 +27,4 @@ Set pH ~4.7
 * Peptone can be replaced by any peptic digest of animal tissue
 * Yeast extract can be replaced by beef extract
 
-[Back to Organisms](/bha6/organisms/)
+[Back to Organisms](/bha9/organisms/)

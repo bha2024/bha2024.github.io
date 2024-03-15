@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plate Count Agar (PCA)
-permalink: /bha6/cultivation-media/plate-count-agar/
+permalink: /bha9/cultivation-media/plate-count-agar/
 categories: cultivation-media
 ---
 
@@ -25,4 +25,4 @@ Set pH ~7.0
 * Peptone can be found on eBay.
 * Yeast extract is often sold as pills in drugstores
 
-[Back to Organisms](/bha6/organisms/)
+[Back to Organisms](/bha9/organisms/)
