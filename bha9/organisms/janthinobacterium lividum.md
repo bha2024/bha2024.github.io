@@ -9,7 +9,7 @@ categories: culture-collection
 
 * Purple pigment, called Violacein
 * Our favorite pet microbe :)
-* Grows best on [Nutrient Agar](/bha9/cultivation-media/nutrient-agar/) or [Plate Count Agar](/bha6/cultivation-media/plate-count-agar/)
+* Grows best on [Nutrient Agar](/bha9/cultivation-media/nutrient-agar/) or [Plate Count Agar](/bha9/cultivation-media/plate-count-agar/)
 * Find out more on [Wikipedia](http://en.wikipedia.org/wiki/Janthinobacterium_lividum)
 
 ![janthinobacterium lividum]({{ site.baseurl }}/bha6/organisms/JL.jpg)

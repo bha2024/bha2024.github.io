@@ -11,6 +11,6 @@ categories: culture-collection
 * Grows best on [Nutrient Agar](/bha9/cultivation-media/nutrient-agar/)
 * Find out more on [Wikipedia](http://en.wikipedia.org/wiki/Micrococcus_luteus) and [MicrobeWiki](https://microbewiki.kenyon.edu/index.php/Micrococcus)
 
-![micrococcus luteus]({{ site.baseurl }}/bha6/organisms/ML.JPG)
+![micrococcus luteus]({{ site.baseurl }}/bha9/organisms/ML.JPG)
 
 [Back to Culture Collection](/bha9/organisms/)
